@@ -4,7 +4,7 @@ This is a project that aims to recreate the Netflix homepage using HTML and CSS.
 
 ## Live Demo
 
-Try out the Temperature Converter [here](https://rohithaaiswarya16.github.io/Temperature_Converter/).
+Try out the Temperature Converter [here](https://rohithaaiswarya16.github.io/Netflix_Homepage/).
 
 ## Features
 
